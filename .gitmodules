@@ -10,3 +10,6 @@
 [submodule "environment_terraform"]
 	path = environment_terraform
 	url = https://github.com/andrei-shtanakov/environment_terraform.git
+[submodule "app_terraform"]
+	path = app_terraform
+	url = https://github.com/andrei-shtanakov/app_terraform.git
